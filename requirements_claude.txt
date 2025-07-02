@@ -1,0 +1,24 @@
+# Claude API London Tourism Assistant Requirements
+# Install with: pip install -r requirements_claude.txt
+
+# Core dependencies
+streamlit
+langchain
+langchain-anthropic
+langchain-community
+
+# Vector database
+chromadb
+
+# Document processing
+pypdf
+
+# Free embeddings (no OpenAI needed)
+sentence-transformers
+
+# Data handling
+pandas
+pyyaml
+
+# Additional utilities
+watchdog

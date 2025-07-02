@@ -1,0 +1,16 @@
+chunk_overlap: 200
+chunk_size: 1000
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+pdf_files:
+- london.pdf
+- 2017-London-Food-Guide-2.pdf
+- Culture of London.pdf
+- 2024_dsrm_ch07_water_distribution_system_0.pdf
+- CBP-8585.pdf
+- London Restaurant Guide 2024.pdf
+- final_london_food_strategy.pdf
+- food-distribution-market-update-fall-2024.pdf
+- 5-day_London_PromptGuide_v1.0.pdf
+- Visiting the uk_guide to supporting documents.pdf
+- UK+Visa+requirements+April+2025.pdf
+total_chunks: 2498
